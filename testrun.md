@@ -13,6 +13,6 @@ Q: How can I tell what'a happening with a certain repository? .
 
 A: Signing up for notifications is how you can see the goings-on of a specific repository - you get notifications when you are watching a repository. You can watch a repository by clicking the 'watch' icon on the top right of a repository page. 
 
-Q: 
+Q: We're a group of authors writing a middle school biology text bool - can Github help us? 
 
-A: 
+A: Definitely! Although Github was created with programmers in mind and is primarily used for code, anyone can use it to collaborate on a project. You can work on it open-source, meaning anyone will be able to see your work, or you can use a Github enterprise account which isn't free, but is secure and gives you control over who has access to your projects. 
